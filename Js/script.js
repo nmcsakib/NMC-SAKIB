@@ -168,7 +168,7 @@ togg.addEventListener("change", ()=>{
 
 
 function myFunc() {
-  confirm("This may take 2GB to download                                                                    do you want to download it??");
+  confirm("এটা দুই জিবি এর একটা ফাইল, আপনি কি সত্যিই ডাউনলোড করতে চান ?");
 }
 
 
