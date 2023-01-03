@@ -31,7 +31,7 @@
     position: fixed;
     display: inline-block;
     width: 50px;
-    float: right;
+   
     height: 27px;
     border-radius: 25%;
     right: 70px;top: 10px;
@@ -582,7 +582,7 @@ header .navbar ul li a:hover{
         position: fixed;
         display: inline-block;
         width: 40px;
-        float: right;
+        
         height: 18px;
         border-radius: 25%;
         right: 70px;top: 10px;
